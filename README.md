@@ -5,3 +5,5 @@ Playwright music scraper for vk.com
 Replace number, password, and link into scraper.js and playlist.js files
 
 Enjoy!!!!
+
+### Disclaimer: This project is intended for educational purposes and personal use only. Please respect the terms of use of the platforms you interact with. 🎵❤️
